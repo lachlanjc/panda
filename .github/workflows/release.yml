@@ -42,7 +42,7 @@ jobs:
         working-directory: ./extension/vscode
         run: |
           pnpm rewrite-deps
-          rm -rf node_modules
+          rimraf node_modules
           npm i
           pnpm release
         env:
