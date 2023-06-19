@@ -1,5 +1,16 @@
 # @pandacss/studio
 
+## 0.3.3
+
+### Patch Changes
+
+- @pandacss/config@0.3.3
+- @pandacss/node@0.3.3
+- @pandacss/token-dictionary@0.3.3
+- @pandacss/logger@0.3.3
+- @pandacss/shared@0.3.3
+- @pandacss/types@0.3.3
+
 ## 0.3.2
 
 ### Patch Changes

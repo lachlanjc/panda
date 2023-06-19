@@ -1,5 +1,21 @@
 # @pandacss/node
 
+## 0.3.3
+
+### Patch Changes
+
+- @pandacss/config@0.3.3
+- @pandacss/core@0.3.3
+- @pandacss/generator@0.3.3
+- @pandacss/parser@0.3.3
+- @pandacss/token-dictionary@0.3.3
+- @pandacss/error@0.3.3
+- @pandacss/extractor@0.3.3
+- @pandacss/is-valid-prop@0.3.3
+- @pandacss/logger@0.3.3
+- @pandacss/shared@0.3.3
+- @pandacss/types@0.3.3
+
 ## 0.3.2
 
 ### Patch Changes

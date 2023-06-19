@@ -1,5 +1,12 @@
 # @pandacss/preset-base
 
+## 0.3.3
+
+### Patch Changes
+
+- 9156c1c6: Fix placeholder condition to map to `&::placeholder`
+  - @pandacss/types@0.3.3
+
 ## 0.3.2
 
 ### Patch Changes
